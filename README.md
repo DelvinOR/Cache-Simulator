@@ -1,4 +1,4 @@
-#Cache Simulator
+# Cache Simulator
 
 CS211 (Computer Architecture) project to simulatre a working cache software component.
 
